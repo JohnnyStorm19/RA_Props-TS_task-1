@@ -1,0 +1,17 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card-body-stars {
+  display: flex;
+  justify-content: center;
+  padding: 0;
+}
+
+.star {
+  cursor: pointer;
+  list-style-type: none;
+}
